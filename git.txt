@@ -8,3 +8,4 @@ git config -global user.password "xxxx"
 5. git commit -m "commit 5-12"
 6. git push -u origin main
 
+git pull https://github.com/NicoloFranchiBondi/Ripetizioni main
