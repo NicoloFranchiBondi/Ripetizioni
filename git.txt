@@ -1,0 +1,9 @@
+git config --global user.email "xxxx"
+git config -global user.password "xxxx"
+
+1. vai alla cartella che vuoi pushare su git
+2. git init
+3. git add . //aggiungi cartella alla lista di commit
+4. git remote add https://github.com/NicoloFranchiBondi/Ripetizioni    //configura repository remota
+5. git push -u origin main
+
