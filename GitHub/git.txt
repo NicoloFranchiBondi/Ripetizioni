@@ -1,6 +1,6 @@
 git config --global user.email "xxxx"
 git config -global user.password "xxxx"
-git config --list --show-origin
+git config --list --show-origin  //mostare lista delle repository
 
 1. vai alla cartella che vuoi pushare su git
 2. git init
